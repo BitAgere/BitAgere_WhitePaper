@@ -3,7 +3,7 @@
 ![Feedback-loop](images/feedback-loop.png)
 
 ## Overview
-BitAgere is a next-generation, distributed consensus system grounded in Bitcoin’s decentralized security model and elevated by the Cognito theoretical framework. Drawing on Turing computability, Gödel’s incompleteness insights, and Wiener’s cybernetic principles, Cognito defines an adaptive, triadic feedback loop—Control, Computation, Communication—that guides the evolution of consensus rules and strategies in open, dynamic environments.
+BitAgere is a Multi-Agere Interconnected System Based on Bitcoin. Drawing on Turing computability, Gödel’s incompleteness insights, and Wiener’s cybernetic principles, Cognito defines an adaptive, triadic feedback loop—Control, Computation, Communication—that guides the evolution of consensus rules and strategies in open, dynamic environments.
 
 ## Key Contributions
 

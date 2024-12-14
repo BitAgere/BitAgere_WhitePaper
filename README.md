@@ -9,24 +9,25 @@ A next-generation, multi-dimensional consensus framework built upon Bitcoin’s 
 ## Architecture Overview
 BitAgere’s layered structure combines:
 
-BTC Main Chain Anchor:
+* BTC Main Chain Anchor:
 Provides a secure, trustless baseline for global state commitments.
 
-Programmable Sidechains (BEVM):
+* Programmable Sidechains (BEVM):
 Enables flexible smart contracts, dynamic consensus adjustments, and new asset models.
 
-Off-Chain Virtual Machines:
+* Off-Chain Virtual Machines:
 Handles high-dimensional data processing, agent-based simulations, and complex optimization tasks.
 
-Multi-Agent Interactions:
+* Multi-Agent Interactions:
 Agents (Agere) leverage beliefs, desires, and intentions to form strategies, trade resources, and evolve reputations.
 
 ## White Paper
 
 For an in-depth understanding of the BitAgere system, please refer to our white papers available in both Chinese and English:
 
-- [BitAgere White Paper (Chinese)](BitAgere: 一个以比特币为底层的多元Agere 互联系统.md)
-- [BitAgere White Paper (English)](BitAgere: A Multi-Agere Interconnected System Based on Bitcoin.md)
+- [BitAgere White Paper (Chinese)](BitAgere_一个以比特币为底层的多元Agere互联系统.md)
+- [BitAgere White Paper (English)](BitAgere_A_Multi-Agere_Interconnected_System_Based_on_Bitcoin.md)
+
 
 These documents offer detailed insights into the system architecture, design principles, and implementation strategies.
 

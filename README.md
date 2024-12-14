@@ -6,21 +6,6 @@
 
 A next-generation, multi-dimensional consensus framework built upon Bitcoin’s secure and decentralized foundations. BitAgere leverages the “Control–Computation–Communication” (Cognito) model to achieve adaptive, evolving consensus beyond traditional blockchain paradigms.
 
-## Architecture Overview
-BitAgere’s layered structure combines:
-
-* BTC Main Chain Anchor:
-Provides a secure, trustless baseline for global state commitments.
-
-* Programmable Sidechains (BEVM):
-Enables flexible smart contracts, dynamic consensus adjustments, and new asset models.
-
-* Off-Chain Virtual Machines:
-Handles high-dimensional data processing, agent-based simulations, and complex optimization tasks.
-
-* Multi-Agent Interactions:
-Agents (Agere) leverage beliefs, desires, and intentions to form strategies, trade resources, and evolve reputations.
-
 ## White Paper
 
 For an in-depth understanding of the BitAgere system, please refer to our white papers available in both Chinese and English:

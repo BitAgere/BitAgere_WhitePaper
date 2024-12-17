@@ -37,7 +37,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - 2. **Nakamoto Consensus:**
    The distributed trust problem of Coin communication solved through unlimited POW computing power competition.
 - 3. **Mechanical Consensus:**
-   A control module of a self-adaptive mechanical system that emerges from the continuous Input/Output interaction of multiple Agents through an autonomous feedback mechanism in order to achieve a specific goal (mechanical contract).
+  A control module of a self-adaptive mechanical system that emerges from the continuous Input/Output interaction of multiple agents through an autonomous feedback mechanism in order to achieve a specific goal. Mechanical contracts can be expressed and evolved into mechanical consensus.
 - 4. **Mechanical Contract:**
    The specification of how Agents interact and how to reach consensus.
 - 5. **Agent:**

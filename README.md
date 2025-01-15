@@ -37,7 +37,7 @@ The development of BEVM has undergone a deep reflection on the core design conce
 - **Direction**: BEVM(λ) inherits Bitcoin’s principles of energy conservation and decentralized emergence while enhancing autonomy and intelligence. Powered by the Agere subsystem and supported by distributed stateless computation and consensus-aware algorithms, BEVM(λ) paves the way for diverse future applications and the comprehensive development of intelligent crypto systems.  
 - **White Paper**:
   - [BEVM(λ) White Paper(English)](https://github.com/BitAgere/BitAgere_WhitePaper/blob/main/docs/Agere_Consensus_Intelligent_Cryptocurrency_Design_Based_on_BEVM.pdf)
-  - [BEVM(λ) White Paper(Chinese)](https://github.com/BitAgere/BitAgere_WhitePaper/blob/main/docs/Agere_Consensus_Intelligent_Cryptocurrency_Design_Based_on_BEVM_CN.pdf)
+  - [BEVM(λ) White Paper(Chinese)](https://github.com/BitAgere/BitAgere_WhitePaper/blob/main/docs/Agere共识_基于BEVM(λ)的智能加密货币设计.pdf)
 # Contributing
 Contributions are welcome! Join the discussion or submit issues and pull requests to help refine BEVM(λ) and Agere Consensus.
 

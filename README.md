@@ -1,9 +1,9 @@
-# BEVM and BitAgere Development
+# BEVM(λ) Paradigm
 
 This repository introduces the developmental stages leading to the BEVM(λ) paradigm, provides links to five key white papers, and presents the BitAgere system—a multi-Agere interconnected ecosystem grounded in Bitcoin’s consensus security.
 
 ## BEVM Development Phases
-
+The development of BEVM has undergone a deep reflection on the core design concepts of Bitcoin and Ethereum, and has gradually formed the current paradigm through multiple technical explorations.
 ### 1. BTC Layer2 Exploration
 - **Goal**: Address Bitcoin’s limited scalability by using Layer2 solutions to improve transaction throughput.  
 - **Lessons Learned**: While technically feasible, Layer2 solutions lacked strong ecological demand, meaning they did not fundamentally change Bitcoin’s usage or achieve broad adoption.  

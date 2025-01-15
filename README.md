@@ -1,6 +1,6 @@
 # BEVM(λ) Paradigm
 
-This repository introduces the developmental stages leading to the BEVM(λ) paradigm, provides links to five key white papers, and presents the BitAgere system—a multi-Agere interconnected ecosystem grounded in Bitcoin’s consensus security.
+This repository introduces the formation of the BEVM(λ) paradigm, links to five key white papers, and presents the design of an intelligent cryptocurrency system—Agere Consensus and the BitAgere ecosystem. BEVM(λ) emerged through a deep reflection on the core principles of Bitcoin and Ethereum, undergoing multiple iterations and technical explorations to establish a new paradigm that integrates energy conservation, decentralized emergence, and intelligent scalability.
 
 ## BEVM Development Phases
 The development of BEVM has undergone a deep reflection on the core design concepts of Bitcoin and Ethereum, and has gradually formed the current paradigm through multiple technical explorations.
@@ -30,3 +30,9 @@ The development of BEVM has undergone a deep reflection on the core design conce
 - **Discovery**: Through introspecting Bitcoin’s design philosophy, we formulated the BEVM(λ) paradigm. It provides systemic theoretical guidance by examining Bitcoin’s success from four core aspects: the Individual model, lambda calculus, consensus algorithm, and consensus-aware algorithm.  
 - **Direction**: BEVM(λ) inherits Bitcoin’s principles of energy conservation and decentralized emergence while enhancing autonomy and intelligence. Powered by the Agere subsystem and supported by distributed stateless computation and consensus-aware algorithms, BEVM(λ) paves the way for diverse future applications and the comprehensive development of intelligent crypto systems.  
 - **White Paper**: [BEVM(λ) White Paper](docs/Agere_Consensus_Intelligent_Cryptocurrency_Design_Based_on_BEVM.pdf)
+
+# Contributing
+Contributions are welcome! Join the discussion or submit issues and pull requests to help refine BEVM(λ) and Agere Consensus.
+
+# License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.

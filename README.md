@@ -7,17 +7,17 @@ This repository introduces the developmental stages leading to the BEVM(λ) para
 ### 1. BTC Layer2 Exploration
 - **Goal**: Address Bitcoin’s limited scalability by using Layer2 solutions to improve transaction throughput.  
 - **Lessons Learned**: While technically feasible, Layer2 solutions lacked strong ecological demand, meaning they did not fundamentally change Bitcoin’s usage or achieve broad adoption.  
-- **White Paper**: [BTC Layer2 White Paper](docs/BEVM_Whitepaper2023.pdf) <!-- 在此处替换为真实链接 -->
+- **White Paper**: [BTC Layer2 White Paper](docs/BEVM_Whitepaper2023.pdf) 
 
 ### 2. Taproot Consensus
 - **Innovation**: Combined Bitcoin SPV state channels with Taproot technology to enable decentralized custody and expand Bitcoin’s smart contract capabilities.  
 - **Reflections**: Bitcoin (BTC) is already widely adopted as a currency in centralized exchanges and mining pools, with relatively limited demand for decentralization-based expansion. What truly requires enhancement is Bitcoin’s consensus mechanism rather than BTC’s monetary function alone.  
-- **White Paper**: [Taproot Consensus White Paper](docs/Taproot_Consensus_White_Paper.pdf) <!-- 在此处替换为真实链接 -->
+- **White Paper**: [Taproot Consensus White Paper](docs/Taproot_Consensus_yellow_paper.pdf)
 
 ### 3. SuperBitcoin
 - **Direction**: Proposed a new crypto system that shares the security advantages of Bitcoin’s consensus.  
 - **Limitations**: Improved consensus security but did not solve the “dreamworld disconnection” in Ethereum-like VMs. Such systems run only within their internal liquidity environment and lack the ability to perceive and interact with real-world data and states.  
-- **White Paper**: [SuperBitcoin White Paper](docs/SuperBitcoin_White_Paper.pdf) <!-- 在此处替换为真实链接 -->
+- **White Paper**: [SuperBitcoin White Paper](docs/Super_Bitcoin_Whitepaper.pdf) 
 
 ### 4. BitAgere
 - **Problem**: Identified parallels between Bitcoin’s mechanical consensus and AI Agents’ abstract cognition, leading to the concept of BitAgere.  

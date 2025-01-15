@@ -23,7 +23,7 @@ This repository introduces the developmental stages leading to the BEVM(λ) para
 - **Problem**: Identified parallels between Bitcoin’s mechanical consensus and AI Agents’ abstract cognition, leading to the concept of BitAgere.  
 - **Innovation**: Based on SuperBitcoin, focused on solving mechanical consensus’ perception gap. AI Agents’ input-sensing capability is abstracted and connected on-chain, enabling crypto systems to have real-world perceptive power. This deep integration of Crypto and AI Agents forms the basis for BitAgere.  
 - **White Paper**:  
-  - [BitAgere White Paper (Chinese)](docs/BitAgere_一个以Bitcoin为底层的多元Agere 互联系统.pdf)  
+  - [BitAgere White Paper (Chinese)](docs/BitAgere_一个以Bitcoin为底层的多元Agere互联系统.pdf)  
   - [BitAgere White Paper (English)](docs/BitAgere_A_multi-dimensional_Agere_interconnection_system_based_on_Bitcoin.pdf)
 
 ### 5. BEVM(λ) Paradigm

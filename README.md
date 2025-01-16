@@ -1,6 +1,8 @@
-# BEVM(λ) Paradigm
+# BitAgere
 
-This repository introduces the formation of the BEVM(λ) paradigm, links to five key white papers, and presents the design of an intelligent cryptocurrency system—Agere Consensus and the BitAgere ecosystem. BEVM(λ) emerged through a deep reflection on the core principles of Bitcoin and Ethereum, undergoing multiple iterations and technical explorations to establish a new paradigm that integrates energy conservation, decentralized emergence, and intelligent scalability.
+This repository introduces BitAgere - A Multi-Agere Interconnected System Based on Bitcoin. Inspired by Turing computability, Gödel’s incompleteness theorem, and Wiener cybernetics, BitAgere utilizes the Cognito theoretical model, a triadic closed-loop of control, computation, and communication, to establish an adaptive and scalable consensus framework.
+
+Grounded in Bitcoin’s security and decentralization, BitAgere connects multi-agents through mechanical contracts, forming scalable consensus fields. This enables efficient information exchange, trust transfer, and collaboration without centralized management, creating a secure and intelligent multi-agent ecosystem.
 
 ## BEVM Development Phases
 The development of BEVM has undergone a deep reflection on the core design concepts of Bitcoin and Ethereum, and has gradually formed the current paradigm through multiple technical explorations.
